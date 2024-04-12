@@ -26,6 +26,8 @@ while True:
         clear()
 
 '''
+WAY #2
+
 from replit import clear
 
 from art import logo
