@@ -8,11 +8,16 @@ The Silent Auction project is a Python script that allows users to participate i
 ## History   
 https://en.wikipedia.org/wiki/First-price_sealed-bid_auction
 ## Use it in Replit   
-
+https://replit.com/@AntuSarder/Silent-Auction-A-Python-Dictionaries-Project?v=1
 ## ScreenShots   
+![newImage](https://github.com/Himel-Sarder/Silent-Auction--A-Python-Dictionaries-Project/assets/143216886/880700c4-771a-4f90-b686-48a252a22185)
+![download](https://github.com/Himel-Sarder/Silent-Auction--A-Python-Dictionaries-Project/assets/143216886/a0535373-aea9-484d-bf71-7aebee29845b)
+![Capture2](https://github.com/Himel-Sarder/Silent-Auction--A-Python-Dictionaries-Project/assets/143216886/7ec99c96-6fa4-46bf-b6bc-3e9070a969f6)
+![H](https://github.com/Himel-Sarder/Silent-Auction--A-Python-Dictionaries-Project/assets/143216886/f680fa87-ff65-4161-8a01-bdeb6b11fc3d) 
 
 ## Take a look   
 
+https://github.com/Himel-Sarder/Silent-Auction--A-Python-Dictionaries-Project/assets/143216886/1cd3b3d3-02f7-4641-b055-76bd85c4c79c
 
 ## Features
 - **Anonymous Bidding**: Users can submit their bids without revealing their identities.
